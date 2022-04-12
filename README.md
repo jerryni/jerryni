@@ -4,6 +4,10 @@
 
 ### Hi there 👋
 
+- 🔭 I’m looking for a job.
+
+[go to my blogs](https://github.com/jerryni/blog/issues)
+
 <!--
 **jerryni/jerryni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
