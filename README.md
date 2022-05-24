@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- Goods luck!
+- Good luck!
 
 [go to my blogs](https://github.com/jerryni/blog/issues)
 
