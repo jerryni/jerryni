@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m looking for a job.
+- Goods luck!
 
 [go to my blogs](https://github.com/jerryni/blog/issues)
 
